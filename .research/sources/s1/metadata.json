@@ -1,0 +1,30 @@
+{
+  "title": "Least Angle Regression",
+  "authors": [
+    "Bradley Efron",
+    "Trevor Hastie",
+    "Iain Johnstone",
+    "Robert Tibshirani"
+  ],
+  "abstract": "The purpose of model selection algorithms such as All Subsets, Forward\n  Selection and Backward Elimination is to choose a linear model on the basis of the same set of data to which the model will be applied. Typically we have available a large collection of possible covariates from which we hope to select a parsimonious set for the efficient prediction of a response variable. Least Angle Regression (LARS), a new model selection algorithm, is a useful and less greedy version of traditional forward selection methods.\n  Three main properties are derived: (1) A simple modification of the LARS algorithm implements the Lasso, an attractive version of ordinary least squares that constrains the sum of the absolute regression coefficients; the LARS modification calculates all possible Lasso estimates for a given problem, using an order of magnitude less computer time than previous methods.\n  (2) A different LARS modification efficiently implements Forward Stagewise linear regression, another promising new model selection method;",
+  "doi": "10.1214/009053604000000067",
+  "arxiv_id": "math/0406456v2",
+  "url": "https://arxiv.org/abs/math/0406456v2",
+  "pdf_url": "https://arxiv.org/pdf/math/0406456v2",
+  "published_date": "2004-06-23T08:06:25Z",
+  "venue": "Annals of Statistics 2004, Vol. 32, No. 2, 407-451",
+  "citations": null,
+  "source": "arxiv",
+  "external_ids": {
+    "arxiv": "math/0406456v2"
+  },
+  "fetched_at": "2026-11-13T08:59:47+00:00",
+  "request": {
+    "arxiv_id": "math/0406456"
+  },
+  "fulltext": {
+    "url": "https://arxiv.org/pdf/math/0406456v2",
+    "parser": "pymupdf 2.1",
+    "fetched_at": "2026-11-13T08:59:47+00:00"
+  }
+}
